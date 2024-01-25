@@ -109,7 +109,7 @@ img {
 </style>
 {% include "patterns/hero/collection-hero.md" %}
 <div class="grid-container grid-row">
-<div class="section-nav tablet:grid-col-3">in page nav here</div>
+<div class="section-nav tablet:grid-col-3">{% include "patterns/sidenav/collection-nav.md" %}</div>
 
 <div class="section-nav tablet:grid-col-9">
 
