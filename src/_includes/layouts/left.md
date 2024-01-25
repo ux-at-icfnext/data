@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-TODO: ADD breadcrumb option
+
 
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-3">TODO: Side nav here </div>
