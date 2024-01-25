@@ -13,10 +13,17 @@ a.hide-link {
   text-decoration: none;
   color: #1b1b1b;
 }
-img.bento {
+img {
+    width: 100%;
+    height: 100%;
     max-width: 100%;
-    max-height: auto;
+    max-height: 100%;
 }
+.button-list{
+  display: flex;
+  margin: 15px;
+}
+
 .box1 { grid-area: box1; }
 .box2 { grid-area: box2; }
 .box3 { grid-area: box3; }
@@ -26,7 +33,7 @@ img.bento {
 .box7 { grid-area: box7; }
 
 @media screen and (max-width: 799px){
-  .bento1 > div {
+  .bento > div {
     margin-bottom: 15px;
   }
 }
@@ -43,6 +50,35 @@ img.bento {
       "box5 box5 box6 box6"
       "box7 box7 box7 box7"
   }
+  .bento2 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box2 box2 box3"
+      "box1 box4 box4 box5"
+      "box6 box6 box7 box5"
+  }
+  .bento3 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box1 box2"
+  }
+  .bento4 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box2 box1 box1"
+  }
 }
 
 @media screen and (min-width: 1200px){
@@ -57,6 +93,17 @@ img.bento {
       "box3 box5 box5 box4"
       "box3 box6 box6 box4"
       "box7 box7 box7 box7"
+  }
+  .bento2 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box2 box2 box3"
+      "box1 box4 box4 box5"
+      "box6 box6 box7 box5"
   }
 }
 </style>
@@ -138,6 +185,112 @@ img.bento {
     </div>
     </a>
   </div>
+</div> <!-- close bento1 -->
+
+## Gallery of Top Line Numbers / insights
+
+<div class="bento bento2">
+  <div class="box1 usa-card__container">
+      <a class="hide-link" href="/">
+      <img src="https://place-hold.it/600/ffffff?text=" />
+      </a>
+    </div>
+  <div class="box2 usa-card__container">
+    <a class="hide-link" href="/">
+    <img src="https://place-hold.it/600/ffffff?text=" />
+    </a>
+  </div>
+  <div class="box3 usa-card__container">
+    <a class="hide-link" href="/">
+    <img src="https://place-hold.it/600/ffffff?text=" />
+    </a>
+  </div>
+  <div class="box4 usa-card__container">
+    <a class="hide-link" href="/">
+    <img src="https://place-hold.it/600/ffffff?text=" />
+    </a>
+  </div>
+  <div class="box5 usa-card__container">
+    <a class="hide-link" href="/">
+    <img src="https://place-hold.it/600/ffffff?text=" />
+    </a>
+  </div>
+  <div class="box6 usa-card__container">
+    <a class="hide-link" href="/">
+    <img src="https://place-hold.it/600/ffffff?text=" />
+    </a>
+  </div>
+  <div class="box7 usa-card__container">
+    <a class="hide-link" href="/">
+    <img src="https://place-hold.it/600/ffffff?text=" />
+    </a>
+  </div>
+
+</div><!-- close bento2 -->
+
+## Topics Title
+
+<div class="bento bento3">
+  <div class="box1 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+  <div class="box2 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+</div><!-- clost bento3 -->
+
+<div class="button-list">
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
 </div>
+
+<div class="bento bento4">
+  <div class="box1 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+  <div class="box2 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+</div><!-- clost bento4 -->
+
+
 </div> <!-- close body -->
 </div><!-- close grid --> 
+<p> footer here </p>
+<p>  </p><p>  </p><p>  </p>
