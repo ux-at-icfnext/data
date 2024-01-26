@@ -1,7 +1,7 @@
 ---
 layout: layouts/collections
 title: National Survey on Drug Use and Health (NSDUH)
-subtitle: Latest Release
+subtitle: Title to introduce the page
 short:  |
   The data provide estimates of substance use and mental illness at the national, state, and substate levels. NSDUH data also help to identify the extent of substance use and mental illness among different subgroups, estimate trends over time, and determine the need for treatment services.
 cycle: Annually
@@ -108,7 +108,6 @@ img {
 }
 </style>
 
-## Title to introduce the page
 
 <div class="bento bento1">
   <div class="box1 usa-card__container">

@@ -41,8 +41,6 @@ last: 2021
   
 </style>
 
-## {{ subtitle }}
-
 Lorem ipsum dolor sit amet consectetur. Habitasse leo odio sem enim placerat pellentesque auctor magna. Sit arcu in sit suspendisse etiam faucibus tortor. Pulvinar vitae orci quisque vel convallis non. {: .usa-intro }
 
 **Geographic Coverage:** United States

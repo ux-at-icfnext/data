@@ -20,7 +20,7 @@ last: 2021
     vertical-align:super; 
   }
 </style>
-## {{ subtitle }}
+
 ### A pathway to accessing SAMHSA's National Survey on Drug Use and Health (NSDUH) Restricted Use File
 
 **Substance Abuse and Mental Health Services Administration (SAMHSA) Restricted Use Data**

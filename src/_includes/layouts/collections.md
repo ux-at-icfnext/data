@@ -22,6 +22,8 @@ layout: base
 
 <div class="section-nav tablet:grid-col-9">
 
+## {{ subtitle }}
+
 {{ content }}
 
 </div> <!-- close body -->

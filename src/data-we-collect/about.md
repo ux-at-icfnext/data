@@ -9,7 +9,6 @@ update: October 3, 2022
 last: 2021
 ---
 
-## {{ subtitle }}
 ### Details
 The National Survey on Drug Use and Health (NSDUH), conducted annually by the Substance Abuse and Mental Health Services Administration (SAMHSA), provides nationally representative data on the use of tobacco, alcohol, and drugs; substance use disorders; mental health issues; and receipt of substance use and mental health treatment among the civilian, noninstitutionalized population aged 12 or older in the United States. NSDUH estimates allow researchers, clinicians, policymakers, and the general public to better understand and improve the nation’s behavioral health.
 
