@@ -14,8 +14,6 @@ a.hide-link {
   color: #1b1b1b;
 }
 img {
-    width: 100%;
-    height: 100%;
     max-width: 100%;
     max-height: 100%;
 }
@@ -90,8 +88,8 @@ img {
     row-gap: 15px;
     grid-template-areas:
       "box1 box1 box1 box2"
-      "box3 box5 box5 box4"
       "box3 box6 box6 box4"
+      "box3 box5 box5 box4"
       "box7 box7 box7 box7"
   }
   .bento2 {
@@ -112,10 +110,10 @@ img {
 <div class="bento bento1">
   <div class="box1 usa-card__container">
     <a class="hide-link" href="/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Annual Report Title</h2></div>
+    <div class="usa-card__header"><h2 class="usa-card__heading">Annual Release Title</h2></div>
     <div class="usa-card__body">
       <p>
-        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        250 characters -- that should includes mention of detail tables. -- Smiley was monstrous proud of his frog, and well he might.
       </p>
     </div>
     </a>
@@ -133,7 +131,7 @@ img {
   </div>
   <div class="box3 usa-card__container">
     <a class="hide-link" href="/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">State Report</h2></div>
+    <div class="usa-card__header"><h2 class="usa-card__heading">State Release</h2></div>
     <div class="usa-card__body">
       <p>
         Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
@@ -143,7 +141,7 @@ img {
   </div>
   <div class="box4 usa-card__container">
     <a class="hide-link" href="/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Substate Report</h2></div>
+    <div class="usa-card__header"><h2 class="usa-card__heading">Substate Release</h2></div>
     <div class="usa-card__body">
       <p>
         Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
@@ -153,9 +151,9 @@ img {
   </div>
   <div class="box5 usa-card__container">
     <a class="hide-link" href="/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
     <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="/assets/siteimg/bar-chart.png"
           />
     </a>
   </div>
@@ -191,7 +189,7 @@ img {
     </div>
   <div class="box2 usa-card__container">
     <a class="hide-link" href="/">
-    <img src="https://place-hold.it/600/ffffff?text=" />
+    <img src="/assets/siteimg/pie-chart.png" />
     </a>
   </div>
   <div class="box3 usa-card__container">

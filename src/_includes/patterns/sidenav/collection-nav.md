@@ -1,4 +1,4 @@
-<div class="side-nav">
+<div>
 
 ### What's in this section
 
@@ -8,14 +8,12 @@
 {% endfor %}
 </ul>
 </div>
-
 <div class="side-nav-sm">
 <h4 class="usa-accordion__heading">
     <button
       type="button"
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="a1"
     >
       What's in this section
     </button>

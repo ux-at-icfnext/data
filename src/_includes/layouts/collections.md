@@ -23,9 +23,7 @@ layout: base
 <div class="section-nav tablet:grid-col-9">
 
 ## {{ subtitle }}
-
 {{ content }}
 
-</div> <!-- close body -->
-</div><!-- close grid --> 
-<p> footer here </p>
+</div>
+</div>
