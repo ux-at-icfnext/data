@@ -2,11 +2,14 @@ nav:
   - title: Latest from NSDUH
     href: /data-we-collect/nsduh/
   - title: Download Data Files
+    href: /data-we-collect/datafiles/
   - title: Analyze Data Online 
   - title: Methodology 
   - title: Annual Report 
   - title: State Report 
   - title: Substate Report 
-  - title: Reseach Data Center 
+  - title: Reseach Data Center
+    href: /data-we-collect/research/ 
   - title: About This Collection 
+    href: /data-we-collect/about/
   - title: Frequently Asked Questions

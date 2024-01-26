@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: layouts/collections
 title: National Survey on Drug Use and Health (NSDUH)
 subtitle: Latest Release
 short:  |
@@ -107,11 +107,6 @@ img {
   }
 }
 </style>
-{% include "patterns/hero/collection-hero.md" %}
-<div class="grid-container grid-row">
-<div class="section-nav tablet:grid-col-3">{% include "patterns/sidenav/collection-nav.md" %}</div>
-
-<div class="section-nav tablet:grid-col-9">
 
 ## Title to introduce the page
 
@@ -289,8 +284,3 @@ img {
   </div>
 </div><!-- clost bento4 -->
 
-
-</div> <!-- close body -->
-</div><!-- close grid --> 
-<p> footer here </p>
-<p>  </p><p>  </p><p>  </p>

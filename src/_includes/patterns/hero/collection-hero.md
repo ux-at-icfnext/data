@@ -6,6 +6,7 @@
 @media screen and (min-width: 800px){
    .hero-body{
     display: flex;
+    width: 100%;
     flex-flow: space-between;
   }
   .summary {
