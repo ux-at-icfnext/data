@@ -2,6 +2,7 @@
   .collection-hero{
     background: #cccccc;
     padding: 20px;
+    margin: 0;
   }
 @media screen and (min-width: 800px){
    .hero-body{

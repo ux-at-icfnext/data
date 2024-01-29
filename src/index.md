@@ -1,19 +1,19 @@
 ---
 layout: base.html
----
-# Hello World
+title: home
 
-<div class="usa-card__container">
-      <div class="usa-card__header">
-        <h2 class="usa-card__heading">Card</h2>
-      </div>
-      <div class="usa-card__body">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
-          tenetur quo cupiditate, eaque qui officia recusandae.
-        </p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="#" class="usa-button">Visit Florida Keys</a>
-      </div>
-    </div>
+list:
+  - title: Survey Collection Pages (NSDUH)
+    link: /data-we-collect/nsduh/
+---
+<div class="grid-container usa-prose" style="margin-top: 50px;">
+
+# Prototypes for CHSBQ
+
+<ul>
+{% for l in list %}
+<li><a href="{{ l.link }}">{{ l.title }}</a></li>
+{% endfor %}
+</ul>
+
+</div>
