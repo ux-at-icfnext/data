@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 <style>
   @media screen and (max-width: 799px){
     .side-nav {

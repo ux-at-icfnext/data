@@ -1,16 +1,31 @@
-nav:
+nsduh:
   - title: Latest from NSDUH
     href: /data-we-collect/nsduh/
   - title: Download Data Files
-    href: /data-we-collect/datafiles/
+    href: /data-we-collect/nsduh/datafiles/
   - title: Analyze Data Online 
+    href: /data-we-collect/nsduh/analyze/
   - title: Methodology 
+    href: /data-we-collect/nsduh/methodology/
   - title: Annual Report 
+    href: /data-we-collect/nsduh/annual/
   - title: State Report 
+    href: /data-we-collect/nsduh/state/
   - title: Substate Report 
+    href: /data-we-collect/nsduh/substate/
   - title: Reseach Data Center
-    href: /data-we-collect/research/ 
+    href: /data-we-collect/nsduh/research/ 
   - title: About This Collection 
-    href: /data-we-collect/about/
+    href: /data-we-collect/nsduh/about/
   - title: Frequently Asked Questions
-    href: /data-we-collect/faq/
+    href: /data-we-collect/nsduh/faq/
+
+mhcld:
+  - title: Latest from MHCLD
+    href: /data-we-collect/mhcld/
+  - title: Download Data Files
+    href: /data-we-collect/mhcld/datafiles/
+  - title: Analyze Data Online 
+    href: /data-we-collect/mhcld/analyze/
+  - title: Annual Report 
+    href: /data-we-collect/mhcld/annual/

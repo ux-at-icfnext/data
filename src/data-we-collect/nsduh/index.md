@@ -7,6 +7,7 @@ short:  |
 cycle: Annually
 update: October 3, 2022
 last: 2021
+nav: nsduh
 ---
 <style>
 a.hide-link {
@@ -55,9 +56,10 @@ img {
     column-gap: 10px;
     row-gap: 15px;
     grid-template-areas:
-      "box1 box2 box2 box3"
-      "box1 box4 box4 box5"
-      "box6 box6 box7 box5"
+      "box1 box1 box2 "
+      "box1 box1 box3 "
+      "box4 box5 box5 "
+      "box6 box6 box6 "
   }
   .bento3 {
     display: grid;
@@ -101,8 +103,30 @@ img {
     grid-template-areas:
       "box1 box2 box2 box3"
       "box1 box4 box4 box5"
-      "box6 box6 box7 box5"
+      "box7 box7 box7 box5"
+      "box6 box6 box6 box6"
   }
+}
+
+.bento2 > .box3 {
+  padding: 30px;
+}
+.bento2 > .box4 {
+  padding: 30px;
+}
+.bento2 > .box7 {
+  padding: 30px;
+}
+.sm {
+  font-weight: 700;
+}
+.md {
+  font-weight: 700;
+  font-size: 24px;
+}
+.lg {
+  font-weight: 700;
+  font-size: 36px;
 }
 </style>
 
@@ -183,9 +207,7 @@ img {
 
 <div class="bento bento2">
   <div class="box1 usa-card__container">
-      <a class="hide-link" href="/">
-      <img src="https://place-hold.it/600/ffffff?text=" />
-      </a>
+      <img src="/assets/siteimg/1-in-20.png">
     </div>
   <div class="box2 usa-card__container">
     <a class="hide-link" href="/">
@@ -193,31 +215,25 @@ img {
     </a>
   </div>
   <div class="box3 usa-card__container">
-    <a class="hide-link" href="/">
-    <img src="https://place-hold.it/600/ffffff?text=" />
-    </a>
+    <div class="md">137.4 million</div>
+    <div class="lg">About half</div>
+    <div class="sm">(48.7%) of people aged 12 or older <br /> drank alcohol in the past month.</div>
   </div>
   <div class="box4 usa-card__container">
-    <a class="hide-link" href="/">
-    <img src="https://place-hold.it/600/ffffff?text=" />
-    </a>
+    <div class="lg">21.3 million</div>
+    <div class="sm">adults who perceived ever having a substance use problem considered themselves to be</div>
+    <div class="md">in recovery or to have recovered.</div>
   </div>
   <div class="box5 usa-card__container">
-    <a class="hide-link" href="/">
-    <img src="https://place-hold.it/600/ffffff?text=" />
-    </a>
+   <img src="/assets/siteimg/misuse.png">
   </div>
   <div class="box6 usa-card__container">
-    <a class="hide-link" href="/">
-    <img src="https://place-hold.it/600/ffffff?text=" />
-    </a>
+    <img src="/assets/siteimg/1-in-30.png">
   </div>
   <div class="box7 usa-card__container">
-    <a class="hide-link" href="/">
-    <img src="https://place-hold.it/600/ffffff?text=" />
-    </a>
+    <div class="md">Attempted Suicide</div>
+    <div class="sm">Nearly 1 in 25 adolescents aged 12 to 17 attempted suicide in the past year</div>
   </div>
-
 </div><!-- close bento2 -->
 
 ## Topics Title
