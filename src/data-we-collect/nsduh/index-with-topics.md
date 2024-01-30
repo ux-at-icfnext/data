@@ -236,4 +236,64 @@ img {
   </div>
 </div><!-- close bento2 -->
 
+## Topics Title
+
+<div class="bento bento3">
+  <div class="box1 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+  <div class="box2 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+</div><!-- clost bento3 -->
+
+<div class="button-list">
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+<a class="usa-button">topic link</a>
+</div>
+
+<div class="bento bento4">
+  <div class="box1 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+  <div class="box2 usa-card__container">
+    <div class="usa-card__header"><h3 class="usa-card__heading">A featured topic with some detail</h3></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    <div class="usa-card__footer">
+        <a href="#" class="usa-button">Find out more <i class="fa-sharp fa-solid fa-arrow-right"></i></a>
+      </div>
+  </div>
+</div><!-- clost bento4 -->
 
