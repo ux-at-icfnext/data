@@ -133,7 +133,7 @@ img {
 
 <div class="bento bento1">
   <div class="box1 usa-card__container">
-    <a class="hide-link" href="/">
+    <a class="hide-link" href="/data-we-collect/nsduh/release/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Annual Release Title</h2></div>
     <div class="usa-card__body">
       <p>
@@ -144,7 +144,7 @@ img {
   </div>
   <div class="box2 usa-card__container">
     <div class="usa-card__body">
-      <a href="/">View latest annual release </a></br>
+      <a href="/data-we-collect/nsduh/release/">View latest annual release </a></br>
       <label class="usa-label" for="year">View a previous year</label>
       <div class="usa-combo-box">
         <select class="usa-select" name="year" id="year">
@@ -154,7 +154,7 @@ img {
     </div>
   </div>
   <div class="box3 usa-card__container">
-    <a class="hide-link" href="/">
+    <a class="hide-link" href="/data-we-collect/nsduh/state-release/">
     <div class="usa-card__header"><h2 class="usa-card__heading">State Release</h2></div>
     <div class="usa-card__body">
       <p>
@@ -164,7 +164,7 @@ img {
     </a>
   </div>
   <div class="box4 usa-card__container">
-    <a class="hide-link" href="/">
+    <a class="hide-link" href="/data-we-collect/nsduh/substate-release/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Substate Release</h2></div>
     <div class="usa-card__body">
       <p>
@@ -174,7 +174,7 @@ img {
     </a>
   </div>
   <div class="box5 usa-card__container">
-    <a class="hide-link" href="/">
+    <a class="hide-link" href="/data-we-collect/nsduh/analyze/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
     <img
             src="/assets/siteimg/bar-chart.png"
@@ -182,7 +182,7 @@ img {
     </a>
   </div>
   <div class="box6 usa-card__container">
-    <a class="hide-link" href="/">
+    <a class="hide-link" href="/data-we-collect/nsduh/datafiles/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Download Files</h2></div>
     <div class="usa-card__body">
       <p>
@@ -192,7 +192,7 @@ img {
     </a>
   </div>
   <div class="box7 usa-card__container">
-    <a class="hide-link" href="/">
+    <a class="hide-link" href="/data-we-collect/nsduh/about/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the NSDUH Collection</h2></div>
     <div class="usa-card__body">
       <p>

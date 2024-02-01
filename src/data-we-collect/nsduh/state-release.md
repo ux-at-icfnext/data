@@ -58,6 +58,16 @@ items:
     border-bottom: 1px solid #1e1e1e;
   }
 </style>
+<form class="usa-form">
+  <label class="usa-label" for="options">Change Release Year</label>
+  <select class="usa-select" name="options" id="options">
+    <option value>2021</option>
+    <option value="value1">2020</option>
+    <option value="value2">2019</option>
+    <option value="value3">2018</option>
+  </select>
+</form>
+
 Find reports for U.S. states based on small area estimation of the 2021 National Survey on Drug Use and Health (NSDUH). NSDUH state estimates are typically based on two years of combined data. However, these preliminary estimates are based on a single year of data, produced because changes to survey methodology in 2021 mean the data cannot be combined with previous years. Two year estimates that combine 2021 and 2022 will be available after the 2022 data release. **Because 2021 state estimates are based on a single year of data, there is greater variance around the estimates than for the usual two-year estimates, particularly in small states and for uncommon outcomes.**
 
 ### NSDUH State Result Data Tables

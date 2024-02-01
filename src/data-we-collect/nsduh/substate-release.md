@@ -45,6 +45,15 @@ nav: nsduh
     border-bottom: 1px solid #1e1e1e;
   }
 </style>
+<form class="usa-form">
+  <label class="usa-label" for="options">Change Release Year</label>
+  <select class="usa-select" name="options" id="options">
+    <option value>2021</option>
+    <option value="value1">2020</option>
+    <option value="value2">2019</option>
+    <option value="value3">2018</option>
+  </select>
+</form>
 
 The National Survey on Drug Use and Health (NSDUH) is designed to provide substance use and mental illness estimates of the U.S. civilian, non-institutionalized population ages 12 years or older for 406 substate regions. These documents present U.S. substate estimates for 30 binary measures of substance use and mental illness based on combined 2016 to 2018 NSDUHs for individuals aged 12 or older (or adults 18 or older for the five mental health outcomes, and individuals aged 12 to 20 for underage alcohol use and underage binge alcohol use).
 

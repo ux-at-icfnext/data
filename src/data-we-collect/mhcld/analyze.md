@@ -61,6 +61,6 @@ Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed 
 </div>
 
 <div class="box5">
-<h4>Learn more about analysing data online with the <a href="#">Data Tools</a> site</h4>
+<h4>Learn more about analyzing data online with the <a href="#">Data Tools</a> site</h4>
 </div>
 </div>

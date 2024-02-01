@@ -92,6 +92,12 @@ The documents and files here allow you to see how we do what we do. The procedur
   </h4>
 </div> <!-- close download -->
 
+### Variable Crosswalk Charts
+pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi leo
+
+- [MH-CLD Data Crosswalk Template (XLS, ##)](/) 
+{: .usa-list}
+
 
 <h4 class="usa-accordion__heading">
     <button
@@ -100,7 +106,7 @@ The documents and files here allow you to see how we do what we do. The procedur
       aria-expanded="false"
       aria-controls="a1"
     >
-      {i} Reconciling Data Fro MH-TEDS and MH-CLD
+      {i} Reconciling Data From MH-TEDS and MH-CLD
     </button>
   </h4>
   <h4 class="usa-accordion__heading">

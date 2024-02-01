@@ -21,7 +21,7 @@ nsduh:
     href: /data-we-collect/nsduh/faq/
 
 mhcld:
-  - title: Latest from MHCLD
+  - title: About MH-CLD
     href: /data-we-collect/mhcld/
   - title: Download Data Files
     href: /data-we-collect/mhcld/datafiles/
@@ -29,3 +29,5 @@ mhcld:
     href: /data-we-collect/mhcld/analyze/
   - title: Annual Report 
     href: /data-we-collect/mhcld/annual/
+  - title: Annual Detail Tables 
+    href: /data-we-collect/mhcld/tables/
