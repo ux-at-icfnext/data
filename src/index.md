@@ -7,6 +7,8 @@ list:
     link: /data-we-collect/nsduh/
   - title: Survey Collection Pages (MH-CLD)
     link: /data-we-collect/mhcld/
+  - title: Analyze Data (TEDS) - To show example of Quick Stats
+    link: /data-we-collect/teds/analyze/
 ---
 <div class="grid-container usa-prose" style="margin-top: 50px;">
 
