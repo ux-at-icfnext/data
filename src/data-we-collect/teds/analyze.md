@@ -21,7 +21,7 @@ nav: teds
 }
 .usa-label {
   font-weight: 700;
-  padding-right: 15px;
+  padding-right: 5px;
   width: 70px;
 }
 
