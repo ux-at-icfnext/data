@@ -36,7 +36,14 @@ items:
   .jump-menu li:not(:last-child):not(:first-child):after {
     content:' |';
   }
+  .sub-accordion {
+    width: 95%;
+    margin: auto;
+  }
   
+  .sub-accordion  .usa-accordion__button {
+    font-weight: 400 !important;
+  }
   @media screen and (min-width: 1200px){
     .flex {
       display: flex;
@@ -79,8 +86,25 @@ Conducted annually, the National Survey on Drug Use and Health (NSDUH) provides 
 - [Highlights for 2021 NSDUH by Race and Ethnicity (PDF size:##)](/)
 {: .usa-list}
 
-{% include "patterns/accordion/accordion.md" %}
+<div class="usa-accordion">
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="z"
+    >
+      Frequently Asked Questions
+    </button>
+  </h4>
+  <div id="z" class="usa-accordion__content usa-prose">
 
+  </div>
+</div>
+
+<div class="sub-accordion">
+{% include "patterns/accordion/accordion.md" %}
+</div>
 
 ### Annual National Report {. #annual}
 <div class="article-container flex">

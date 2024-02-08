@@ -145,12 +145,15 @@ img {
   <div class="box2 usa-card__container">
     <div class="usa-card__body">
       <a href="/data-we-collect/nsduh/release/">View latest annual release </a></br>
-      <label class="usa-label" for="year">View a previous year</label>
-      <div class="usa-combo-box">
-        <select class="usa-select" name="year" id="year">
-          <option value>Select year</option>
+        <form class="usa-form">
+        <label class="usa-label" for="options">Or view previous year</label>
+        <select class="usa-select" name="options" id="options">
+          <option value>- Select Year -</option>
+          <option value="value1">2021</option>
+          <option value="value2">2020</option>
+          <option value="value3">2019</option>
         </select>
-      </div>
+      </form>
     </div>
   </div>
   <div class="box3 usa-card__container">

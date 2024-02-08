@@ -26,7 +26,7 @@ nav: teds
 }
 
 .usa-select{
-  width: 150px;
+  width: 155px;
   margin-right: 30px;
 }
 img {

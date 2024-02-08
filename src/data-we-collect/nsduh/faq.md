@@ -29,7 +29,7 @@ nav: nsduh
     <button
       type="button"
       class="usa-accordion__button"
-      aria-expanded="true"
+      aria-expanded="false"
       aria-controls="a1"
     >
       Basic Information About NSDUH
