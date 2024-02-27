@@ -206,6 +206,51 @@ img {
   </div>
 </div> <!-- close bento1 -->
 
+## Highlight Briefs & Special Reports
+<div>
+<ul class="usa-card-group">
+  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <a class="hide-link" href="/data-we-collect/nsduh/about/">
+      <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
+      <div class="usa-card__body">
+      <span class="usa-tag">Tag Category</span>
+        <p>
+          Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        </p>
+      </div>
+      </a>
+    </div>
+  </li>
+  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <a class="hide-link" href="/data-we-collect/nsduh/about/">
+      <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
+      <div class="usa-card__body">
+      <span class="usa-tag">Tag Category</span>
+        <p>
+          Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        </p>
+      </div>
+      </a>
+    </div>
+  </li>
+  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="box3 usa-card__container">
+      <a class="hide-link" href="/data-we-collect/nsduh/about/">
+      <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
+      <div class="usa-card__body">
+      <span class="usa-tag">Tag Category</span>
+        <p>
+          Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        </p>
+      </div>
+      </a>
+    </div>
+  </li>
+
+</div><!-- close bento 4 -->
+
 ## Gallery of Top Line Numbers / insights
 
 <div class="bento bento2">
