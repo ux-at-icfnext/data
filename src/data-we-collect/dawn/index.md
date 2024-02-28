@@ -1,14 +1,15 @@
 ---
 layout: layouts/collections
-title: National Survey on Drug Use and Health (NSDUH)
+title: Drug Abuse Warning Network (DAWN)
 subtitle: Title to introduce the page
 short:  |
-  The data provide estimates of substance use and mental illness at the national, state, and substate levels. NSDUH data also help to identify the extent of substance use and mental illness among different subgroups, estimate trends over time, and determine the need for treatment services.
+  The Drug Abuse Warning Network (DAWN) is a nationwide public health surveillance system that captures data on emergency department visits related to recent substance use and misuse directly from the electronic health records of participating hospitals. 
 cycle: Annually
 update: October 3, 2022
-last: 2021
-nav: nsduh
+last: 2022
+nav: dawn
 ---
+
 <style>
 a.hide-link {
   text-decoration: none;
@@ -90,7 +91,7 @@ img {
     row-gap: 15px;
     grid-template-areas:
       "box1 box1 box1 box2"
-      "box3 box6 box6 box4"
+      "box3 box5 box5 box4"
       "box3 box5 box5 box4"
       "box7 box7 box7 box7"
   }
@@ -134,7 +135,7 @@ img {
 <div class="bento bento1">
   <div class="box1 usa-card__container">
     <a class="hide-link" href="/data-we-collect/nsduh/release/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Annual Release Title</h2></div>
+    <div class="usa-card__header"><h2 class="usa-card__heading">Annual Report</h2></div>
     <div class="usa-card__body">
       <p>
         250 characters -- that should includes mention of detail tables. -- Smiley was monstrous proud of his frog, and well he might.
@@ -143,22 +144,18 @@ img {
     </a>
   </div>
   <div class="box2 usa-card__container">
+    <a class="hide-link" href="/data-we-collect/nsduh/about/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the DAWN Collection</h2></div>
     <div class="usa-card__body">
-      <a href="/data-we-collect/nsduh/release/">View latest annual release </a></br>
-        <form class="usa-form">
-        <label class="usa-label" for="options">Or view previous year</label>
-        <select class="usa-select" name="options" id="options">
-          <option value>- Select Year -</option>
-          <option value="value1">2021</option>
-          <option value="value2">2020</option>
-          <option value="value3">2019</option>
-        </select>
-      </form>
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
     </div>
+    </a>
   </div>
   <div class="box3 usa-card__container">
     <a class="hide-link" href="/data-we-collect/nsduh/state-release/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">State Release</h2></div>
+    <div class="usa-card__header"><h2 class="usa-card__heading">Legacy Dawn</h2></div>
     <div class="usa-card__body">
       <p>
         Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
@@ -167,16 +164,6 @@ img {
     </a>
   </div>
   <div class="box4 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/substate-release/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Substate Release</h2></div>
-    <div class="usa-card__body">
-      <p>
-        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
-      </p>
-    </div>
-    </a>
-  </div>
-  <div class="box5 usa-card__container">
     <a class="hide-link" href="/data-we-collect/nsduh/analyze/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
     <img
@@ -184,7 +171,7 @@ img {
           />
     </a>
   </div>
-  <div class="box6 usa-card__container">
+  <div class="box5 usa-card__container">
     <a class="hide-link" href="/data-we-collect/nsduh/datafiles/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Download Files</h2></div>
     <div class="usa-card__body">
@@ -194,16 +181,7 @@ img {
     </div>
     </a>
   </div>
-  <div class="box7 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/about/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the NSDUH Collection</h2></div>
-    <div class="usa-card__body">
-      <p>
-        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
-      </p>
-    </div>
-    </a>
-  </div>
+  
 </div> <!-- close bento1 -->
 
 ## Highlight Briefs & Special Reports
@@ -251,38 +229,5 @@ img {
   <div class="box7"><a href="#">view all reports <i class="fa-solid fa-arrow-right"></i></a></div>
 
 </div><!-- close bento 4 -->
-
-## Gallery of Top Line Numbers / insights
-
-<div class="bento bento2">
-  <div class="box1 usa-card__container">
-      <img src="/assets/siteimg/1-in-20.png">
-    </div>
-  <div class="box2 usa-card__container">
-    <a class="hide-link" href="/">
-    <img src="/assets/siteimg/pie-chart.png" />
-    </a>
-  </div>
-  <div class="box3 usa-card__container">
-    <div class="md">137.4 million</div>
-    <div class="lg">About half</div>
-    <div class="sm">(48.7%) of people aged 12 or older <br /> drank alcohol in the past month.</div>
-  </div>
-  <div class="box4 usa-card__container">
-    <div class="lg">21.3 million</div>
-    <div class="sm">adults who perceived ever having a substance use problem considered themselves to be</div>
-    <div class="md">in recovery or to have recovered.</div>
-  </div>
-  <div class="box5 usa-card__container">
-   <img src="/assets/siteimg/misuse.png">
-  </div>
-  <div class="box6 usa-card__container">
-    <img src="/assets/siteimg/1-in-30.png">
-  </div>
-  <div class="box7 usa-card__container">
-    <div class="md">Attempted Suicide</div>
-    <div class="sm">Nearly 1 in 25 adolescents aged 12 to 17 attempted suicide in the past year</div>
-  </div>
-</div><!-- close bento2 -->
 
 

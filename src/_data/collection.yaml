@@ -31,3 +31,19 @@ mhcld:
     href: /data-we-collect/mhcld/annual/
   - title: Annual Detailed Tables 
     href: /data-we-collect/mhcld/tables/
+
+dawn:
+  - title: Latest from DAWN
+    href: /data-we-collect/dawn/
+  - title: Download Data Files
+    href: /data-we-collect/dawn/datafiles/
+  - title: Analyze Data Online 
+    href: /data-we-collect/dawn/analyze/
+  - title: Annual Report 
+    href: /data-we-collect/dawn/annual/
+  - title: Legacy Dawn (1992-2011) 
+    href: /data-we-collect/dawn/legacy/ 
+  - title: About This Collection 
+    href: /data-we-collect/dawn/about/
+  - title: Frequently Asked Questions
+    href: /data-we-collect/dawn/faq/ 
