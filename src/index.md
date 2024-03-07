@@ -7,6 +7,8 @@ list:
     link: /data-we-collect/nsduh/
   - title: Survey Collection Pages (MH-CLD)
     link: /data-we-collect/mhcld/
+  - title: Survey Collection Pages (DAWN)
+    link: /data-we-collect/dawn/
   - title: Analyze Data (TEDS) - To show example of Quick Stats
     link: /data-we-collect/teds/analyze/
 ---
