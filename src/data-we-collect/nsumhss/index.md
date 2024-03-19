@@ -31,6 +31,40 @@ img {
 .box6 { grid-area: box6; }
 .box7 { grid-area: box7; }
 
+@media screen and (max-width: 799px){
+  .bento > div {
+    margin-bottom: 15px;
+  }
+}
+@media screen and (min-width: 800px){
+  .bento1 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box1 box2 box2"
+      "box3 box3 box4 box4"
+      "box6 box5 box5 box5"
+      "box7 box7 box7 box7"
+  }
+}
+@media screen and (min-width: 1200px){
+  .bento1 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box6 box2"
+      "box1 box5 box2"
+      "box3 box5 box4"
+      "box3 box5 box4"
+      "box7 box7 box7"
+  }
+}
 
 .bento2 > .box3 {
   padding: 30px;
@@ -56,7 +90,7 @@ img {
 
 <div class="bento bento1">
   <div class="box1 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <a class="hide-link" href="/data-we-collect/mhcld/release/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Annual Release Title</h2></div>
     <div class="usa-card__body">
       <p>
@@ -66,7 +100,7 @@ img {
     </a>
   </div>
   <div class="box2 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <a class="hide-link" href="/data-we-collect/mhcld/directory/">
     <div class="usa-card__header"><h2 class="usa-card__heading">National Directory</h2></div>
     <div class="usa-card__body">
       <p>
@@ -76,8 +110,8 @@ img {
     </a>
   </div>
   <div class="box3 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/release/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Data Tables</h2></div>
+    <a class="hide-link" href="/data-we-collect/mhcld/reviews/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Data Reviews</h2></div>
     <div class="usa-card__body">
       <p>
         250 characters -- that should includes mention of detail tables. -- Smiley was monstrous proud of his frog, and well he might.
@@ -86,7 +120,7 @@ img {
     </a>
   </div>
   <div class="box4 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <a class="hide-link" href="/data-we-collect/mhcld/state/">
     <div class="usa-card__header"><h2 class="usa-card__heading">State Profiles</h2></div>
     <div class="usa-card__body">
       <p>
@@ -96,7 +130,7 @@ img {
     </a>
   </div>
   <div class="box5 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/analyze/">
+    <a class="hide-link" href="/data-we-collect/mhcld/analyze/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
     <img
             src="/assets/siteimg/bar-chart.png"
@@ -104,7 +138,7 @@ img {
     </a>
   </div>
   <div class="box6 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/datafiles/">
+    <a class="hide-link" href="/data-we-collect/mhcld/datafiles/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Download Files</h2></div>
     <div class="usa-card__body">
       <p>
@@ -114,7 +148,7 @@ img {
     </a>
   </div>
   <div class="box7 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/about/">
+    <a class="hide-link" href="/data-we-collect/mhcld/about/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the NSDUH Collection</h2></div>
     <div class="usa-card__body">
       <p>
@@ -123,4 +157,50 @@ img {
     </div>
     </a>
   </div>
-</div><!-- close bento 1 -->
+</div><!-- close bento 2 -->
+
+## Highlight Briefs & Special Reports
+<div>
+<ul class="usa-card-group">
+  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <a class="hide-link" href="/">
+      <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
+      <div class="usa-card__body">
+      <span class="usa-tag">Tag Category</span>
+        <p>
+          Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        </p>
+      </div>
+      </a>
+    </div>
+  </li>
+  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <a class="hide-link" href="/">
+      <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
+      <div class="usa-card__body">
+      <span class="usa-tag">Tag Category</span>
+        <p>
+          Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        </p>
+      </div>
+      </a>
+    </div>
+  </li>
+  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+    <div class="box3 usa-card__container">
+      <a class="hide-link" href="/">
+      <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
+      <div class="usa-card__body">
+      <span class="usa-tag">Tag Category</span>
+        <p>
+          Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        </p>
+      </div>
+      </a>
+    </div>
+  </li>
+  <div class="box7"><a href="#">view all reports <i class="fa-solid fa-arrow-right"></i></a></div>
+
+</div><!-- close bento 2 -->
