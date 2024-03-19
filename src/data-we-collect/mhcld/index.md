@@ -1,7 +1,7 @@
 ---
 layout: layouts/collections
 title: Mental Health Client-Level Data (MH-CLD)
-subtitle: About this Collection
+subtitle: Latest in MH-CLD
 short:  |
   The Mental Health Client-Level Data (MH-CLD) and the Mental Health Treatment Episode Data Set (MH-TEDS) systems provide information on mental health diagnoses and the mental health treatment services, outcomes, and demographic and substance use characteristics of individuals in mental health treatment facilities that report to individual state administrative data systems.
 cycle: Annually
@@ -9,13 +9,124 @@ update: October 3, 2022
 last: 2021
 nav: mhcld
 ---
+<style>
+a.hide-link {
+  text-decoration: none;
+  color: #1b1b1b;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.button-list{
+  display: flex;
+  margin: 15px;
+}
 
-### Details
-The Mental Health Client-Level Data (MH-CLD) and the Mental Health Treatment Episode Data Set (MH-TEDS) systems provide information on mental health diagnoses and the mental health treatment services, outcomes, and demographic and substance use characteristics of individuals in mental health treatment facilities that report to individual state administrative data systems.
+.box1 { grid-area: box1; }
+.box2 { grid-area: box2; }
+.box3 { grid-area: box3; }
+.box4 { grid-area: box4; }
+.box5 { grid-area: box5; }
+.box6 { grid-area: box6; }
+.box7 { grid-area: box7; }
 
-### Where Does Data Come From
-The data from MH-CLD and MH-TEDS are for individuals receiving mental health treatment services provided or funded through state mental health agencies (SMHAs). SMHAs are the state entities with primary responsibility for reporting the data.
-MH-TEDS is focused on treatment events, such as admissions and discharges from service centers. Admission and discharge records can be linked to track treatment episodes and the treatment services received by individuals. Thus, with MH-TEDS, both the individual client and the treatment episode can serve as a unit of analysis. In contrast, with MH-CLD, the client is the sole unit of analysis.
-MH-TEDS enhances the ability to report data on people with co-occurring mental health and substance use disorders. MH-TEDS also offers optional data fields for individuals with mental illness that are not captured in MH-CLD, such as referral source, details on criminal justice referral, income sources, and health insurance.
-The same set of mental health disorders for National Outcome Measures (NOMs) enumerated under MH-CLD is also supported by MH-TEDS. Thus, while both MH-TEDS and MH-CLD collect similar client-level data, the collection method differs.
-Please note, the data do not include all individuals receiving mental health treatment services.
+@media screen and (max-width: 799px){
+  .bento > div {
+    margin-bottom: 15px;
+  }
+}
+@media screen and (min-width: 800px){
+  .bento1 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box1 box2"
+      "box3 box4 box4"
+      "box5 box5 box5"
+  }
+@media screen and (min-width: 1200px){
+  .bento1 {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    row-gap: 15px;
+    grid-template-areas:
+      "box1 box1 box1 box2"
+      "box3 box4 box4 box5"
+  }
+.bento2 > .box3 {
+  padding: 30px;
+}
+.bento2 > .box4 {
+  padding: 30px;
+}
+.bento2 > .box7 {
+  padding: 30px;
+}
+.sm {
+  font-weight: 700;
+}
+.md {
+  font-weight: 700;
+  font-size: 24px;
+}
+.lg {
+  font-weight: 700;
+  font-size: 36px;
+}
+</style>
+<div class="bento bento1">
+  <div class="box1 usa-card__container">
+    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Annual Report</h2></div>
+    <div class="usa-card__body">
+      <p>
+        250 characters -- that should includes mention of detail tables. -- Smiley was monstrous proud of his frog, and well he might.
+      </p>
+    </div>
+    </a>
+  </div>
+  <div class="box2 usa-card__container">
+    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Detail Tables</h2></div>
+    <div class="usa-card__body">
+      <p>
+        250 characters -- that should includes mention of detail tables. -- Smiley was monstrous proud of his frog, and well he might.
+      </p>
+    </div>
+    </a>
+  </div>
+  <div class="box3 usa-card__container">
+    <a class="hide-link" href="/data-we-collect/nsduh/datafiles/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Download Files</h2></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog
+      </p>
+    </div>
+    </a>
+  </div>
+  <div class="box4 usa-card__container">
+    <a class="hide-link" href="/data-we-collect/nsduh/analyze/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
+    <img
+            src="/assets/siteimg/bar-chart.png"
+          />
+    </a>
+  </div>
+  <div class="box5 usa-card__container">
+    <a class="hide-link" href="/data-we-collect/nsduh/about/">
+    <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the NSDUH Collection</h2></div>
+    <div class="usa-card__body">
+      <p>
+        Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    </a>
+  </div>
+</div> <!-- close bento 1 -->
