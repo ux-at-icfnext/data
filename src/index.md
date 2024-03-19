@@ -9,6 +9,8 @@ list:
     link: /data-we-collect/mhcld/
   - title: Survey Collection Pages (DAWN)
     link: /data-we-collect/dawn/
+  - title: Survey Collection Pages (N-SUMHSS)
+    link: /data-we-collect/numhss/
   - title: Analyze Data (TEDS) - To show example of Quick Stats
     link: /data-we-collect/teds/analyze/
 ---
