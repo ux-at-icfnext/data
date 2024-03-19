@@ -82,7 +82,7 @@ img {
 </style>
 <div class="bento bento1">
   <div class="box1 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <a class="hide-link" href="/data-we-collect/mhcld/annual/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Annual Report</h2></div>
     <div class="usa-card__body">
       <p>
@@ -92,7 +92,7 @@ img {
     </a>
   </div>
   <div class="box2 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/release/">
+    <a class="hide-link" href="/data-we-collect/mhcld/tables/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Detail Tables</h2></div>
     <div class="usa-card__body">
       <p>
@@ -102,7 +102,7 @@ img {
     </a>
   </div>
   <div class="box3 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/datafiles/">
+    <a class="hide-link" href="/data-we-collect/mhcld/datafiles/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Download Files</h2></div>
     <div class="usa-card__body">
       <p>
@@ -112,7 +112,7 @@ img {
     </a>
   </div>
   <div class="box4 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/analyze/">
+    <a class="hide-link" href="/data-we-collect/mhcld/analyze/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
     <img
             src="/assets/siteimg/bar-chart.png"
@@ -120,7 +120,7 @@ img {
     </a>
   </div>
   <div class="box5 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/nsduh/about/">
+    <a class="hide-link" href="/data-we-collect/mhcld/about/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the NSDUH Collection</h2></div>
     <div class="usa-card__body">
       <p>
