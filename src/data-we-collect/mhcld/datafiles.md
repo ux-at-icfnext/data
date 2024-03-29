@@ -1,7 +1,7 @@
 ---
 layout: layouts/collections
 title: Mental Health Client-Level Data (MH-CLD)
-subtitle: About this Collection
+subtitle: Download Data Files
 short:  |
   The Mental Health Client-Level Data (MH-CLD) and the Mental Health Treatment Episode Data Set (MH-TEDS) systems provide information on mental health diagnoses and the mental health treatment services, outcomes, and demographic and substance use characteristics of individuals in mental health treatment facilities that report to individual state administrative data systems.
 cycle: Annually
