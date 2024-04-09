@@ -30,6 +30,7 @@ img {
 .box5 { grid-area: box5; }
 .box6 { grid-area: box6; }
 .box7 { grid-area: box7; }
+.box8 { grid-area: box8; }
 
 @media screen and (max-width: 799px){
   .bento > div {
@@ -44,6 +45,7 @@ img {
     column-gap: 10px;
     row-gap: 15px;
     grid-template-areas:
+      "box8 box8 box8 box8"
       "box1 box1 box2 box2"
       "box3 box3 box4 box4"
       "box6 box5 box5 box5"
@@ -58,6 +60,7 @@ img {
     column-gap: 10px;
     row-gap: 15px;
     grid-template-areas:
+      "box8 box8 box8"
       "box1 box6 box2"
       "box1 box5 box2"
       "box3 box5 box4"
@@ -149,10 +152,19 @@ img {
   </div>
   <div class="box7 usa-card__container">
     <a class="hide-link" href="/data-we-collect/mhcld/about/">
-    <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the NSDUH Collection</h2></div>
+    <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the N-SUMHSS Collection</h2></div>
     <div class="usa-card__body">
       <p>
         Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+      </p>
+    </div>
+    </a>
+  </div>
+  <div class="box8 usa-alert usa-alert--info">
+    <div class="usa-alert__body"><h4 class="usa-alert__heading">Alert title about merging of N-SSATS & N-MHSS</h4></div>
+    <div class="usa-alert__text">
+      <p>
+        can contain a <a href="/">link to more info</a> Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
       </p>
     </div>
     </a>
