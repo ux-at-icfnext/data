@@ -93,7 +93,7 @@ img {
 
 <div class="bento bento1">
   <div class="box1 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/release/">
+    <a class="hide-link" href="/data-we-collect/nsumhss/release/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Annual Release Title</h2></div>
     <div class="usa-card__body">
       <p>
@@ -103,7 +103,7 @@ img {
     </a>
   </div>
   <div class="box2 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/directory/">
+    <a class="hide-link" href="#">
     <div class="usa-card__header"><h2 class="usa-card__heading">National Directory</h2></div>
     <div class="usa-card__body">
       <p>
@@ -113,7 +113,7 @@ img {
     </a>
   </div>
   <div class="box3 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/reviews/">
+    <a class="hide-link" href="#">
     <div class="usa-card__header"><h2 class="usa-card__heading">Data Reviews</h2></div>
     <div class="usa-card__body">
       <p>
@@ -123,7 +123,7 @@ img {
     </a>
   </div>
   <div class="box4 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/state/">
+    <a class="hide-link" href="#">
     <div class="usa-card__header"><h2 class="usa-card__heading">State Profiles</h2></div>
     <div class="usa-card__body">
       <p>
@@ -133,7 +133,7 @@ img {
     </a>
   </div>
   <div class="box5 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/analyze/">
+    <a class="hide-link" href="/data-we-collect/nsumhss/analyze/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Analyze Online</h2></div>
     <img
             src="/assets/siteimg/bar-chart.png"
@@ -141,7 +141,7 @@ img {
     </a>
   </div>
   <div class="box6 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/datafiles/">
+    <a class="hide-link" href="/data-we-collect/nsumhss/datafiles/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Download Files</h2></div>
     <div class="usa-card__body">
       <p>
@@ -151,7 +151,7 @@ img {
     </a>
   </div>
   <div class="box7 usa-card__container">
-    <a class="hide-link" href="/data-we-collect/mhcld/about/">
+    <a class="hide-link" href="/data-we-collect/nsumhss/about/">
     <div class="usa-card__header"><h2 class="usa-card__heading">Learn more about the N-SUMHSS Collection</h2></div>
     <div class="usa-card__body">
       <p>
@@ -164,7 +164,7 @@ img {
     <div class="usa-alert__body"><h4 class="usa-alert__heading">Alert title about merging of N-SSATS & N-MHSS</h4></div>
     <div class="usa-alert__text">
       <p>
-        can contain a <a href="/">link to more info</a> Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
+        can contain a <a href="#">link to more info</a> Smiley was monstrous proud of his frog, and well he might be, for fellers that had traveled and been everywheres, all said he laid over any frog that ever they see.
       </p>
     </div>
     </a>
@@ -176,7 +176,7 @@ img {
 <ul class="usa-card-group">
   <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
     <div class="usa-card__container">
-      <a class="hide-link" href="/">
+      <a class="hide-link" href="#">
       <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
       <div class="usa-card__body">
       <span class="usa-tag">Tag Category</span>
@@ -189,7 +189,7 @@ img {
   </li>
   <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
     <div class="usa-card__container">
-      <a class="hide-link" href="/">
+      <a class="hide-link" href="#">
       <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
       <div class="usa-card__body">
       <span class="usa-tag">Tag Category</span>
@@ -202,7 +202,7 @@ img {
   </li>
   <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
     <div class="box3 usa-card__container">
-      <a class="hide-link" href="/">
+      <a class="hide-link" href="#">
       <div class="usa-card__header"><h2 class="usa-card__heading">Title to a report - maximum length 140 characters before elipsis</h2></div>
       <div class="usa-card__body">
       <span class="usa-tag">Tag Category</span>

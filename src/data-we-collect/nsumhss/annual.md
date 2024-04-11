@@ -37,15 +37,15 @@ possible "short" support paragraph -- that should includes mention of merging of
   <div><label class="usa-label" for="options">Choose Year:</label>
   <select class="usa-select" name="options" id="options" onchange="window.open(this.value,'_self');">
     <option value>- Select Year -</option>
-    <option value="">2021</option>
+    <option value="/data-we-collect/nsumhss/release/">2021</option>
     <option value="#">Option B</option>
     <option value="#">Option C</option>
   </select></div>
   <div><label class="usa-label" for="options">Choose Collection:</label>
   <select class="usa-select" name="options" id="options" onchange="window.open(this.value,'_self');">
     <option value>- Select collection -</option>
-    <option value="">N-MHSS</option>
-    <option value="#">N-SSATS</option>
+    <option value="https://www.samhsa.gov/data/report/national-mental-health-services-survey-n-mhss-2020-data-mental-health-treatment-facilities">N-MHSS</option>
+    <option value="https://www.samhsa.gov/data/report/national-survey-substance-abuse-treatment-services-n-ssats-2020-data-substance-abuse">N-SSATS</option>
     <option value="#">Option C</option>
   </select></div>
 </form>
