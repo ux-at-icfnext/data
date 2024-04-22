@@ -56,7 +56,22 @@ Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed 
 <div class="box2">
 <h3>Data Analysis System</h3>
 <p>Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed praesent odio nec risus. Felis aliquet dui dolor nibh. Ut eros vulputate a arcu sit pulvinar etiam semper nibh tincidunt.</p>
-<a href="#" class="usa-button">Go to DAS</a>
+<p class="das-link" style="display: flex; gap: 10px; align-items: baseline;">
+  <select class="usa-select" style="max-width: 100px;" name="options" id="options">
+    <option value>2019</option>
+    <option value="value1">2021</option>
+    <option value="value2">2019</option>
+    <option value="value3">2018</option>
+  </select>
+  <select class="usa-select" style="max-width: 160px;" name="options" id="options">
+    <option value>Choose Data Set</option>
+    <option value="value1">NSDUH: Public-use Data (2019)</option>
+    <option value="value2">NSDUH: Combined Public-use File (2002-2019)</option>
+    <option value="value3">NSDUH: 2-Year Restricted-use Data (2018-2019)</option>
+    <option value="value3">NSDUH: 10-Year Substate Restricted-use Data (2010-2019)</option>
+  </select>
+  <a href="#" class="usa-button">Go to DAS</a>
+</p>
 </div>
 <div class="box3">
   <img src="https://place-hold.it/500x300" />
@@ -65,7 +80,9 @@ Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed 
 <h3>State Estimates</h3>
 <p>Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed praesent odio nec risus. Felis aliquet dui dolor nibh. Ut eros vulputate a arcu sit pulvinar etiam semper nibh tincidunt.</p>
 <p><a href="#" class="usa-button">Visualize State Data</a></p>
-<p><a href="#" class="usa-button">Visualize Substate Regional Data</a></p>
+<p>
+  <a href="#" class="usa-button">Visualize Substate Regional Data</a>
+</p>
 </div>
 <div class="box5">
 <h4>Learn more about analyzing data online with the <a href="#">Data Tools</a> site</h4>
