@@ -20,6 +20,7 @@ items:
       - [ NSDUH 2023 Questionnaire ](/)
       - [ NSDUH 2023 Screening Specifications ](/)
       - [ NSDUH 2023 Showcards ](/)
+      - Methodological Summary and Definitions**  ([PDF | 78.19 KB](/))  ([HTML | 1.12 MB](/))
   - title: 2022 Methodological Resource Book
     header: Space for header info - 140 characters
     content: |
@@ -30,6 +31,7 @@ items:
       - [ NSDUH 2022 Questionnaire ](/)
       - [ NSDUH 2022 Screening Specifications ](/)
       - [ NSDUH 2022 Showcards ](/)
+      - Methodological Summary and Definitions**  ([PDF | 78.19 KB](/))  ([HTML | 1.12 MB](/))
   - title: 2021 Methodological Resource Book
     header: Space for header info - 140 characters
     content: |
@@ -40,6 +42,7 @@ items:
       - [ NSDUH 2021 Questionnaire ](/)
       - [ NSDUH 2021 Screening Specifications ](/)
       - [ NSDUH 2021 Showcards ](/)
+      - Methodological Summary and Definitions**  ([PDF | 78.19 KB](/))  ([HTML | 1.12 MB](/))
   - title: 2020 Methodological Resource Book
     header: Space for header info - 140 characters
     content: |
@@ -50,6 +53,7 @@ items:
       - [ NSDUH 2020 Questionnaire ](/)
       - [ NSDUH 2020 Screening Specifications ](/)
       - [ NSDUH 2020 Showcards ](/)
+      - Methodological Summary and Definitions**  ([PDF | 78.19 KB](/))  ([HTML | 1.12 MB](/))
 ---
 <style>
   .data-download {
@@ -68,8 +72,9 @@ items:
   }
 </style>
 
-The Methodological Resource Book (MRB) is intended to serve as documentation of survey materials and methodology associated with the National Survey on Drug Use and Health (NSDUH). The MRB documents detail the data collection and processing methods used and may include documentation on sampling, estimation, imputation, weighting, field interview protocols, and computer-assisted interviewing (CAI) questionnaire and screening questionnaires. {: .usa-intro }
+Introduction test -- should likely be rewritten -- The Methodological Resource Book (MRB) is intended to serve as documentation of survey materials and methodology associated with the National Survey on Drug Use and Health (NSDUH). The MRB documents detail the data collection and processing methods used and may include documentation on sampling, estimation, imputation, weighting, field interview protocols, and computer-assisted interviewing (CAI) questionnaire and screening questionnaires. {: .usa-intro }
 
+Example page content:
 - Chapter 1 is an introduction to the report.
 - Chapter 2 describes the survey, including information about the sample design; data collection procedures; and key aspects of data processing, such as development of analysis weights.
 - Chapter 3 presents technical details on the statistical methods and measurement, such as suppression criteria for unreliable estimates, statistical testing procedures, and measurement issues for selected substance use and mental health measures.
@@ -79,9 +84,6 @@ The Methodological Resource Book (MRB) is intended to serve as documentation of 
 - Appendix A is a glossary that covers key definitions for use as a resource with the 2021 NSDUH reports and detailed tables.
 - Appendix B provides a list of contributors to the report.
 {: .usa-list }
-
-**2021 Methodological Summary and Definitions**  ([PDF | 78.19 KB](/))  ([HTML | 1.12 MB](/))
-[Additional methodological reports and materials are available from the 2021 Methodological Resource Book](/)
 
 {% include "patterns/accordion/accordion.md" %}
 

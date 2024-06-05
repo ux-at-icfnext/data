@@ -61,4 +61,15 @@ Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed 
 <div class="box5">
 <h4>Learn more about analyzing data online with the <a href="#">Data Tools</a> site</h4>
 </div>
+<div class="box3">
+  <img src="https://place-hold.it/500x300" />
+</div>
+<div class="box4">
+<h3>Quick Statistics</h3>
+<p>Place holder text to talk about Quick Stats ..... Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed praesent odio nec risus.</p>
+<p><a href="#" class="usa-button">Get Stats</a></p>
+</div>
+<div class="box5">
+<h4>Learn more about analyzing data online with the <a href="#">Data Tools</a> site</h4>
+</div>
 </div>

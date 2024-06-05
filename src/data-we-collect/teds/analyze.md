@@ -83,28 +83,6 @@ Lorem ipsum dolor sit amet consectetur. Vestibulum urna sit eu lacinia. Est sed 
 <div class="box4">
 <h3>Quick Statistics</h3>
 <p>TEDS Quick Statistics include quarterly updated admission and discharge data on clients aged 12 years and older by primary substance use, gender, age, race, and ethnicity.</p>
-<form class="usa-form data-drop">
-  <label class="usa-label" for="options">State:</label>
-  <select class="usa-select" name="options" id="options">
-    <option value>- United States -</option>
-    <option value="value1">Alabama</option>
-    <option value="value2">Alaska</option>
-    <option value="value3">Arizona</option>
-  </select>
-  <label class="usa-label" for="options">Year:</label>
-  <select class="usa-select" name="options" id="options">
-    <option value>2022</option>
-    <option value="value1">2021</option>
-    <option value="value2">2019</option>
-    <option value="value3">2018</option>
-  </select>
-  <label class="usa-label" for="options">Type:</label>
-  <select class="usa-select" name="options" id="options">
-    <option value>Admissions</option>
-    <option value="value1">Discharge</option>
-  </select>
-  
-</form>
 <p><a href="#" class="usa-button">Get Stats</a></p>
 </div>
 <div class="box5">
